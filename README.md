@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Welcome!
+# Hi there 👋
 
 - 🔭 I’m currently working on building quantitative and algorithmic financial markets trading bots.
 - 👯 I’m looking to collaborate on trading strategies/alphas, smart high frequency order management/trade execution, and hyper parameter optimization using machine learning, with continuous adjustment based on market inputs.
