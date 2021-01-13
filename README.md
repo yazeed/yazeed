@@ -14,3 +14,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yazeed)
                     
+<p>
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/samerzmd?style=social">
+</p>
