@@ -6,9 +6,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on building quantitative and algorithmic financial markets trading bots.
-- 👯 I’m looking to collaborate on trading strategies/alphas, smart high frequency order management/trade execution, and hyper parameter optimization using machine learning, with continuous adjustment based on market inputs.
-- 📫 You can reach me via Twitter: @yazeedaloyoun.
+- 🔭 Working on a product built on top of GPT-3, and quantitative and algorithmic financial markets trading bots.
+- 📫 Feel free to reach out via Twitter: @yazeedaloyoun.
 
 [![yazeed](https://github-readme-stats.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yazeed/yazeed)
 
