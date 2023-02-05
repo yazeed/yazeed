@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🔭 Working on a product built on top of GPT-3, and quantitative/algorithmic financial markets trading bots.
+- 🔭 Working on a product built on top of Generative AI Tech, and quantitative/algorithmic financial markets trading bots.
 - 📫 Feel free to reach out via Twitter: @yazeedaloyoun.
 
 [![yazeed](https://github-readme-stats.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yazeed/yazeed)
