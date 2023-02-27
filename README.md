@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🔭 Working on a product built on top of Generative AI Tech.
+- 🔭 Working on a product built within the Generative AI and AI-as-a-service space.
 - 📉 Building private quantitative/algorithmic financial markets trading bots.
 - 📫 Feel free to reach out via Twitter: @yazeedaloyoun.
 
