@@ -10,7 +10,7 @@
 
 - ✍🏻 Product Management by day, Software Engineer by night.
 - 🔭 Building a Product within the Generative AI and AI-as-a-Service space.
-- 📉 Building private quantitative/algorithmic financial markets trading bots.
+- 📉 Working on private quantitative/algorithmic financial markets trading systems since 2018.
 - 📫 Feel free to reach out via Twitter: @yazeedaloyoun.
 
 [![yazeed](https://github-readme-stats.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yazeed/yazeed)
