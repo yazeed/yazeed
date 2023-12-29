@@ -8,7 +8,7 @@
 
 [![image](https://user-images.githubusercontent.com/191483/221670434-172287d4-d541-4eca-bd93-5fd50757881c.png)](https://linkedin.com/in/yazeedaloyoun)
 
-- ✍🏻 I'm a Product manager who still likes to write code.
+- ✍🏻 15+ yrs of Product Management and still enjoy writing code for fun projects.
 - 🔭 Working on a Product within the Generative AI and AI-as-a-Service space.
 - 📉 Building private quantitative/algorithmic financial markets trading bots.
 - 📫 Feel free to reach out via Twitter: @yazeedaloyoun.
