@@ -1,10 +1,6 @@
 # Hi there 👋
 
-<p>
-  <a href="https://twitter.com/yazeedaloyoun">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yazeedaloyoun?style=for-the-badge">
-  </a>
-</p>
+[![Twitter: Yazeed Al Oyoun](https://img.shields.io/twitter/follow/yazeedaloyoun?style=social)](https://x.com/yazeedaloyoun) 
 
 [![image](https://user-images.githubusercontent.com/191483/221670434-172287d4-d541-4eca-bd93-5fd50757881c.png)](https://linkedin.com/in/yazeedaloyoun)
 
