@@ -6,7 +6,7 @@
 - 📉 Working on private quantitative/algorithmic financial markets trading systems since 2018.
 - 📫 Feel free to reach out via Twitter: @yazeedaloyoun.
 
-[![yazeed](https://github-readme-stats.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yazeed/yazeed)
+[![yazeed](https://github-readme-stats.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yazeed/)
 
 <div>
   <a href="https://github.com/yazeed/">
