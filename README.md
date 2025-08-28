@@ -9,6 +9,9 @@
 [![yazeed](https://github-readme-stats.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yazeed/yazeed)
 
 <div>
+  <a href="https://github.com/yazeed/">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/yazeed?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a
     href="https://x.com/yazeedaloyoun">
       <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -18,9 +21,6 @@
   </a>
   <a href="https://huggingface.co/yazeedaloyoun/">
       <img src="https://img.shields.io/badge/huggingface-yellow?style=for-the-badge&logo=huggingface&logoColor=white" />
-  </a>
-  <a href="https://github.com/yazeed/">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/yazeed?style=for-the-badge&logo=github&logoColor=black&labelColor=white">
   </a>
 </div>
 
