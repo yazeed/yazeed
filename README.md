@@ -1,6 +1,5 @@
 # Hi there 👋
 
-- 🧱 Building oya.ai – Runtime for AI Employees
 - ✍🏻 Product Management by day, Software Engineer by night.
 - 🔭 Building products and tools.
 - 🤯 Obsessing on finding new solutions to old problems with AI.
