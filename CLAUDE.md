@@ -1,7 +1,8 @@
 # yazeed — project instructions
 
-Personal site (Vite + React + Tailwind). Not deployed on the new Coolify server: the old server
-had an empty `yazeed.com` project, and yazeed.com has no A record (2026-10-24).
+GitHub profile repo: `README.md` here is what github.com/yazeed shows on the profile page. There is
+no site code in this repo and nothing to build or deploy. The yazeed.com personal site lives in its
+own private repo, `yazeed/yazeed-website` (local: `~/Sites/yazeed-website`).
 
 ## Coding guidelines
 
