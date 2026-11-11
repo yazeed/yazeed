@@ -27,3 +27,5 @@
 <p></p>
 
 ![](https://komarev.com/ghpvc/?username=yazeed&color=blue)
+
+[![AI-Atlas](https://getaiatlas.com/api/badge/yazeed)](https://getaiatlas.com/u/yazeed)
