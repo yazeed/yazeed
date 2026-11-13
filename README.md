@@ -6,8 +6,6 @@
 - 📉 Working on private quantitative/algorithmic financial markets trading systems since 2018.
 - 📫 Feel free to reach out via Twitter: @yazeedaloyoun.
 
-[![yazeed](https://github-readme-stats-eta-gules-64.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yazeed/)
-
 <div>
   <a href="https://github.com/yazeed/">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/yazeed?style=for-the-badge&logo=github&logoColor=white">
